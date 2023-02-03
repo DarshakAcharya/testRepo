@@ -1,0 +1,258 @@
+#menubar{
+    top: 34px;
+    left: 29px;
+    width: 18px;
+    height: 12px;
+    margin-top: 15px;
+    margin-left: 5px;
+    
+}
+#header{
+    height: 80px;
+    width: 1560px;
+}
+
+#logo{
+    top: 25px;
+    left: 72px; 
+    width: 142px;
+    height: 30px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+
+#menubar_logo{
+    display: flex;
+}
+
+#search{
+    top: 52px;
+    left: 291px;
+    width: 16px;
+    height: 16px;
+    margin-left: 100px;
+    margin-top: 16px;
+}
+
+#sea{
+    top: 28px;
+    left: 321px;
+    width: 49px;
+    height: 21px;
+    color: #000000;
+    text-align: left;
+    font: normal normal normal 16px/21px Roboto;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+#menu_search{
+    display: flex;
+}
+
+#notification{
+    top: 28px;
+    left: 1294px;
+    width: 22px;
+    height: 21px;
+    margin-left: 800px;
+    margin-top: 15px;
+}
+#profile{
+    top: 18px;
+    left: 1368px;
+    width: 44px;
+    height: 44px;
+    margin-left: 25px;
+    margin-top: 7px;
+}
+#ms_notification{
+    display: flex;
+}
+#notification_profile{
+    display: flex;
+}
+
+#profile_name{
+    top: 28px;
+    left: 1424px;
+    width: 68px;
+    height: 21px;
+    text-align: left;
+    font: normal normal normal 16px/21px Roboto;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#profile_profilename{
+    display: flex;
+}
+
+#arrow{
+    top: 37px;
+    left: 1507px;
+    width: 100px !important;
+    height: 100px;
+    margin-top: 17px;
+    margin-left: 5px;
+}
+
+#Pname_arrow{
+    display: flex;
+}
+
+/*For Dashboard side bar*/
+#dashboard{
+    display: flex;
+    color: red;
+    background-color: #FFF3F4;
+    width: 183px;
+    height: 43px;
+    align-items: center;
+    border-radius: 5px;
+}
+#dashboard_logo{
+    margin-left: 35px;
+}
+#dtext{
+    margin-left: 5px;
+    position: relative;
+    bottom: 2px;
+}
+
+#analysis{
+    display: flex;
+    
+     
+    width: 183px;
+    height: 43px;
+    align-items: center;
+    border-radius: 5px;
+}
+#analysis_logo{
+    margin-left: 35px;
+}
+#atext{
+    margin-left: 5px;
+    position: relative;
+    bottom: 2px;
+}
+
+#inbox{
+    display: flex;
+    
+     
+    width: 183px;
+    height: 43px;
+    align-items: center;
+    border-radius: 5px;
+}
+#inbox_logo{
+    margin-left: 35px;
+}
+#itext{
+    margin-left: 5px;
+    position: relative;
+    bottom: 2px;
+}
+
+#history{
+    display: flex;
+    
+     
+    width: 183px;
+    height: 43px;
+    align-items: center;
+    border-radius: 5px;
+}
+#history_logo{
+    margin-left: 35px;
+}
+#htext{
+    margin-left: 5px;
+    position: relative;
+    bottom: 2px;
+}
+
+#users{
+    display: flex;
+    
+     
+    width: 183px;
+    height: 43px;
+    align-items: center;
+    border-radius: 5px;
+}
+#users_logo{
+    margin-left: 35px;
+}
+#utext{
+    margin-left: 5px;
+    position: relative;
+    bottom: 2px;
+}
+
+#maintenance{
+    display: flex;
+    
+     
+    width: 183px;
+    height: 43px;
+    align-items: center;
+    border-radius: 5px;
+}
+#maintenance_logo{
+    margin-left: 35px;
+}
+#mtext{
+    margin-left: 5px;
+    position: relative;
+    bottom: 2px;
+}
+
+#setting{
+    display: flex;
+    
+     
+    width: 183px;
+    height: 43px;
+    align-items: center;
+    border-radius: 5px;
+}
+#setting_logo{
+    margin-left: 35px;
+}
+#stext{
+    margin-left: 5px;
+    position: relative;
+    bottom: 2px;
+}
+
+/*For dashboard data*/
+
+#dashboard_name{
+}
+
+#screen{
+    display: flex;
+}
+#nameP{
+     margin: 0;
+    font-size: 30px; 
+    margin-left: 20px;
+    margin-top: 5px;
+    Roboto 
+     
+    
+}
+
+#star{
+    width: 33px;
+    height: 33px;
+}
+
+/* #data{
+    background-color: ;
+} */
+
